@@ -1,0 +1,9 @@
+baseURL = "https://kurrier.github.io"
+languageCode = "en-us"
+title = "Test Site"
+theme = "ananke"
+
+[params]
+commentoEnable = "false"
+background_color_class = "bg-black"
+
